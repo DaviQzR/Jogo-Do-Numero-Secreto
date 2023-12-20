@@ -93,8 +93,7 @@ body::before {
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
-    padding-bottom: 1rem; /* Ajuste a margem inferior para dar um espaçamento */
-    margin-top: 1rem; /* Ajuste a margem superior para baixar o título */
+    padding-bottom: 3rem;
 }
 
 p,
