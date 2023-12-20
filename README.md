@@ -51,3 +51,12 @@ Permite reiniciar o jogo a qualquer momento, gerando um novo número secreto e r
 --> Certifique-se de ter uma conexão com a internet para o correto funcionamento da síntese de voz.
 
 --> O jogo foi otimizado para funcionar em uma ampla variedade de dispositivos.
+
+
+## Imagem
+
+![image](https://github.com/DaviQzR/Jogo-Do-Numero-Secreto/assets/125469425/b385d0df-ae23-4eb4-a9b6-510edfce25a8)
+
+
+
+
