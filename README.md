@@ -2,6 +2,9 @@
 
 Este projeto consiste em um jogo simples desenvolvido em JavaScript, HTML e CSS, onde o objetivo é adivinhar um número secreto gerado aleatoriamente. O jogo utiliza interações com o usuário por meio de uma interface web responsiva e incorpora funcionalidades de voz para uma experiência mais interativa.
 
+## Para Acessar clique no link
+>https://jogo-gamma-smoky.vercel.app<
+
 ### Funcionalidades Principais:
 
 Geração Aleatória de Números:
@@ -53,9 +56,7 @@ Permite reiniciar o jogo a qualquer momento, gerando um novo número secreto e r
 --> O jogo foi otimizado para funcionar em uma ampla variedade de dispositivos.
 
 
-## Imagem
 
-![image](https://github.com/DaviQzR/Jogo-Do-Numero-Secreto/assets/125469425/b385d0df-ae23-4eb4-a9b6-510edfce25a8)
 
 
 
